@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Benton\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Benton\\.nuget\\packages"
+    ]
+  }
+}

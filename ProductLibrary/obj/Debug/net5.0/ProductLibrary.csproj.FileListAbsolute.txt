@@ -1,0 +1,15 @@
+C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\bin\Debug\net5.0\ProductLibrary.deps.json
+C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\bin\Debug\net5.0\ProductLibrary.runtimeconfig.json
+C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\bin\Debug\net5.0\ProductLibrary.runtimeconfig.dev.json
+C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\bin\Debug\net5.0\ProductLibrary.dll
+C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\bin\Debug\net5.0\ref\ProductLibrary.dll
+C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\bin\Debug\net5.0\ProductLibrary.pdb
+C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\obj\Debug\net5.0\ProductLibrary.csproj.AssemblyReference.cache
+C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\obj\Debug\net5.0\ProductLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\obj\Debug\net5.0\ProductLibrary.AssemblyInfoInputs.cache
+C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\obj\Debug\net5.0\ProductLibrary.AssemblyInfo.cs
+C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\obj\Debug\net5.0\ProductLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\obj\Debug\net5.0\ProductLibrary.dll
+C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\obj\Debug\net5.0\ref\ProductLibrary.dll
+C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\obj\Debug\net5.0\ProductLibrary.pdb
+C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\obj\Debug\net5.0\ProductLibrary.genruntimeconfig.cache
