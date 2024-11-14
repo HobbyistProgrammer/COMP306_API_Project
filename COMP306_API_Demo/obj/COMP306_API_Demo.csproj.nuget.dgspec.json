@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Benton\\source\\repos\\COMP306_API_Demo\\COMP306_API_Demo\\COMP306_API_Demo.csproj": {}
+    "D:\\Github Repos\\COMP306_API_Project\\COMP306_API_Demo\\COMP306_API_Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Benton\\source\\repos\\COMP306_API_Demo\\COMP306_API_Demo\\COMP306_API_Demo.csproj": {
+    "D:\\Github Repos\\COMP306_API_Project\\COMP306_API_Demo\\COMP306_API_Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Benton\\source\\repos\\COMP306_API_Demo\\COMP306_API_Demo\\COMP306_API_Demo.csproj",
+        "projectUniqueName": "D:\\Github Repos\\COMP306_API_Project\\COMP306_API_Demo\\COMP306_API_Demo.csproj",
         "projectName": "COMP306_API_Demo",
-        "projectPath": "C:\\Users\\Benton\\source\\repos\\COMP306_API_Demo\\COMP306_API_Demo\\COMP306_API_Demo.csproj",
+        "projectPath": "D:\\Github Repos\\COMP306_API_Project\\COMP306_API_Demo\\COMP306_API_Demo.csproj",
         "packagesPath": "C:\\Users\\Benton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Benton\\source\\repos\\COMP306_API_Demo\\COMP306_API_Demo\\obj\\",
+        "outputPath": "D:\\Github Repos\\COMP306_API_Project\\COMP306_API_Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Benton\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -30,8 +30,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Benton\\source\\repos\\COMP306_API_Demo\\ProductLibrary\\ProductLibrary.csproj": {
-                "projectPath": "C:\\Users\\Benton\\source\\repos\\COMP306_API_Demo\\ProductLibrary\\ProductLibrary.csproj"
+              "D:\\Github Repos\\COMP306_API_Project\\ProductLibrary\\ProductLibrary.csproj": {
+                "projectPath": "D:\\Github Repos\\COMP306_API_Project\\ProductLibrary\\ProductLibrary.csproj"
               }
             }
           }
@@ -111,14 +111,14 @@
         }
       }
     },
-    "C:\\Users\\Benton\\source\\repos\\COMP306_API_Demo\\ProductLibrary\\ProductLibrary.csproj": {
+    "D:\\Github Repos\\COMP306_API_Project\\ProductLibrary\\ProductLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Benton\\source\\repos\\COMP306_API_Demo\\ProductLibrary\\ProductLibrary.csproj",
+        "projectUniqueName": "D:\\Github Repos\\COMP306_API_Project\\ProductLibrary\\ProductLibrary.csproj",
         "projectName": "ProductLibrary",
-        "projectPath": "C:\\Users\\Benton\\source\\repos\\COMP306_API_Demo\\ProductLibrary\\ProductLibrary.csproj",
+        "projectPath": "D:\\Github Repos\\COMP306_API_Project\\ProductLibrary\\ProductLibrary.csproj",
         "packagesPath": "C:\\Users\\Benton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Benton\\source\\repos\\COMP306_API_Demo\\ProductLibrary\\obj\\",
+        "outputPath": "D:\\Github Repos\\COMP306_API_Project\\ProductLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Benton\\AppData\\Roaming\\NuGet\\NuGet.Config",

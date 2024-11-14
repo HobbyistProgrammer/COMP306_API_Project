@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AmobldMPwH2n6e6VX3Il48E3/c3hC5Vt9SIvziMgeTa5iaz6oD4s9CL7N/YaM8+JD+9mFZQBAe3dZw7i6d6TtA==",
+  "dgSpecHash": "T8feIhFVqQlKGVURgSdkAXFe05B/ZAiJVqlHukhTjbtydl/ypBzC6iBkEPxP+KorwVLm0ifGZTuhxODbTdrezw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Benton\\source\\repos\\COMP306_API_Demo\\ProductLibrary\\ProductLibrary.csproj",
+  "projectFilePath": "D:\\Github Repos\\COMP306_API_Project\\ProductLibrary\\ProductLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Benton\\.nuget\\packages\\awssdk.core\\3.7.400.50\\awssdk.core.3.7.400.50.nupkg.sha512",
     "C:\\Users\\Benton\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.403\\awssdk.dynamodbv2.3.7.403.nupkg.sha512",
