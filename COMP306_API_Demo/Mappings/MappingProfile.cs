@@ -16,6 +16,12 @@ namespace COMP306_API_Demo.Mappings
             CreateMap<Product, ProductDetailDto>();
             CreateMap<Product, ProductCreateUpdateDto>();
             CreateMap<ProductCreateUpdateDto, Product>();
+
+            CreateMap<Employee, EmployeeSummaryDto>();
+            CreateMap<Employee, EmployeeDetailDto>();
+            CreateMap<Employee, EmployeeCreateUpdateDto>();
+            CreateMap<EmployeeCreateUpdateDto, Employee>();
+
         }
     }
 }

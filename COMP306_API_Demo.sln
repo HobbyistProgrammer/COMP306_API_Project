@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.34601.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "COMP306_API_Demo", "COMP306_API_Demo\COMP306_API_Demo.csproj", "{A0832A5D-FECD-474D-A49F-8D807966E094}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductLibrary", "ProductLibrary\ProductLibrary.csproj", "{5FA1A627-4F32-4CBA-B9E8-AF14E19D3B6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductLibrary", "ProductLibrary\ProductLibrary.csproj", "{5FA1A627-4F32-4CBA-B9E8-AF14E19D3B6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

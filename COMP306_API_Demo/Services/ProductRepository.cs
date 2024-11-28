@@ -38,9 +38,16 @@ namespace COMP306_API_Demo.Services
 
         public async Task<IEnumerable<Product>> GetAllProductsAsync()
         {
-            var search = _context.ScanAsync<Product>(new List<ScanCondition>());
-            var results = await search.GetRemainingAsync();
-            return results;
+            try
+            {
+                var products = await _context.ScanAsync<Product>(new List<ScanCondition>()).GetRemainingAsync();
+                return products;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+                throw;
+            }
         }
 
         public async Task<Product> GetProductAsync(long id)

@@ -4,7 +4,10 @@ using Microsoft.AspNetCore.Mvc;
 using AutoMapper;
 using COMP306_API_Demo.Services;
 using ProductLibrary.Entities;
-using COMP306_API_Demo.Models; // Make sure to adjust this to your DTOs' namespace
+using COMP306_API_Demo.Models;
+using System;
+using Microsoft.AspNetCore.JsonPatch;
+using System.Linq;
 
 namespace COMP306_API_Demo.Controllers
 {
@@ -58,12 +61,54 @@ namespace COMP306_API_Demo.Controllers
             return NoContent();
         }
 
+        // PATCH: api/Products/5
+        [HttpPatch("{id}")]
+        public async Task<IActionResult> PatchProduct(long id, [FromBody] JsonPatchDocument<ProductCreateUpdateDto> patchDoc)
+        {
+            if (patchDoc == null)
+            {
+                return BadRequest("Invalid patch document.");
+            }
+
+            // Retrieve the existing product
+            var product = await _productRepository.GetProductAsync(id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+            // Map the product entity to a DTO for patching
+            var productDto = _mapper.Map<ProductCreateUpdateDto>(product);
+
+            // Apply the patch to the DTO
+            patchDoc.ApplyTo(productDto, ModelState);
+
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            // Map the patched DTO back to the product entity
+            _mapper.Map(productDto, product);
+
+            // Save the changes to the database
+            await _productRepository.UpdateProductAsync(product);
+
+            return NoContent();
+        }
+
+
         // POST: api/Products
         [HttpPost]
         public async Task<ActionResult<ProductDetailDto>> PostProduct(ProductCreateUpdateDto productDto)
         {
+            var existingProducts = await _productRepository.GetAllProductsAsync();
+            var newId = existingProducts.Count() + 1;
+
             // Map the DTO to the Product entity
             var product = _mapper.Map<Product>(productDto);
+            product.Id = newId;
+
             await _productRepository.AddProductAsync(product);
 
             // Map back to ProductDetailsDto to return detailed information in response

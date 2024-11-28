@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ProductLibrary
+namespace EmployeeLibrary
 {
     public class Class1
     {

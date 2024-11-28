@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "G5DH5mTCqlqu10HqlL/3jNHEBabzxWy5OZ4frzn1EVUoYtJ3ypIke+VjoYEIuLGx1DDqWSWnZRc3bsxCoDINCg==",
+  "dgSpecHash": "YtEQHmO1Eyq5bpXuFr9BAn9ZNEFImE/2JnUE5k3eG1dLAmqxM4zNrn1lXDvZoA7PGGLS1ySLKIuhlN9/Jtp1Nw==",
   "success": true,
   "projectFilePath": "D:\\Github Repos\\COMP306_API_Project\\COMP306_API_Demo\\COMP306_API_Demo.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\Benton\\.nuget\\packages\\awssdk.core\\3.7.400.50\\awssdk.core.3.7.400.50.nupkg.sha512",
     "C:\\Users\\Benton\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.403\\awssdk.dynamodbv2.3.7.403.nupkg.sha512",
     "C:\\Users\\Benton\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Benton\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\Benton\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Benton\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.17\\microsoft.aspnetcore.jsonpatch.5.0.17.nupkg.sha512",
     "C:\\Users\\Benton\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.17\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.17.nupkg.sha512",

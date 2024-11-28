@@ -13,3 +13,18 @@ C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\obj\Debug\net5.0\Pr
 C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\obj\Debug\net5.0\ref\ProductLibrary.dll
 C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\obj\Debug\net5.0\ProductLibrary.pdb
 C:\Users\Benton\source\repos\COMP306_API_Demo\ProductLibrary\obj\Debug\net5.0\ProductLibrary.genruntimeconfig.cache
+D:\Github Repos\COMP306_API_Project\ProductLibrary\obj\Debug\net5.0\ProductLibrary.csproj.AssemblyReference.cache
+D:\Github Repos\COMP306_API_Project\ProductLibrary\obj\Debug\net5.0\ProductLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\COMP306_API_Project\ProductLibrary\obj\Debug\net5.0\ProductLibrary.AssemblyInfoInputs.cache
+D:\Github Repos\COMP306_API_Project\ProductLibrary\obj\Debug\net5.0\ProductLibrary.AssemblyInfo.cs
+D:\Github Repos\COMP306_API_Project\ProductLibrary\obj\Debug\net5.0\ProductLibrary.csproj.CoreCompileInputs.cache
+D:\Github Repos\COMP306_API_Project\ProductLibrary\obj\Debug\net5.0\ProductLibrary.dll
+D:\Github Repos\COMP306_API_Project\ProductLibrary\obj\Debug\net5.0\ref\ProductLibrary.dll
+D:\Github Repos\COMP306_API_Project\ProductLibrary\obj\Debug\net5.0\ProductLibrary.pdb
+D:\Github Repos\COMP306_API_Project\ProductLibrary\bin\Debug\net5.0\ProductLibrary.deps.json
+D:\Github Repos\COMP306_API_Project\ProductLibrary\bin\Debug\net5.0\ProductLibrary.runtimeconfig.json
+D:\Github Repos\COMP306_API_Project\ProductLibrary\bin\Debug\net5.0\ProductLibrary.runtimeconfig.dev.json
+D:\Github Repos\COMP306_API_Project\ProductLibrary\bin\Debug\net5.0\ProductLibrary.dll
+D:\Github Repos\COMP306_API_Project\ProductLibrary\bin\Debug\net5.0\ref\ProductLibrary.dll
+D:\Github Repos\COMP306_API_Project\ProductLibrary\bin\Debug\net5.0\ProductLibrary.pdb
+D:\Github Repos\COMP306_API_Project\ProductLibrary\obj\Debug\net5.0\ProductLibrary.genruntimeconfig.cache
